@@ -23,7 +23,20 @@ Taken from [those](http://doc.ubuntu-fr.org/tutoriel/comment_creer_depot) two [t
     gedit ./conf/distributions
     # copy files to incoming
     # Update the repository
-    reprepro -Vb . includedeb trusty incoming/*.deb
+    reprepro --ask-passphrase  -Vb . includedeb trusty incoming/*.deb
+```
+## Signing the repository 
+Following this [tutorial](http://www.tecmint.com/create-deb-pacakge-repository-in-ubuntu/)
+```
+cd spores
+sudo apt-get install gnupg
+mkdir -p ./key
+gpg --gen-key
+reprepro --ask-passphrase -Vb . export
 ```
 
-## How to publish
+## How to publish new deb package
+```
+cd spores
+reprepro --ask-passphrase -Vb . includedeb Trusty /home/ravisaive/packages.deb
+```
