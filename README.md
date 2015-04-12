@@ -17,12 +17,12 @@ Taken from [those](http://doc.ubuntu-fr.org/tutoriel/comment_creer_depot) two [t
     git clone git clone git@github.com:I-hate-farms/spores.git
     cd spores
     git checkout gh-pages
-    mkdir -p ./apt/conf
-    mkdir -p ./apt/incoming
+    mkdir -p ./conf
+    mkdir -p ./incoming
     # edit the distributions as specified in the tutorials
-    gedit ./apt/conf/distributions
-    # copy files to apt/incoming
-    cd apt
+    gedit ./conf/distributions
+    # copy files to incoming
+    # Update the repository
     reprepro -Vb . includedeb trusty incoming/*.deb
 ```
 
