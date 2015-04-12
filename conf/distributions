@@ -6,3 +6,4 @@ Version: 14.04
 Architectures: i386 amd64
 Components: main
 Description: i-hate-farms repository for applications and libraries
+SignWith: yes

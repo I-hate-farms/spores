@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
 Origin: i-hate-farms
 Label: i-hate-farms repository
 Suite: stable
@@ -28,3 +31,14 @@ SHA256:
  020d79241068d8a41b1074d71cf8cdf79a86f4b6152d1ae603f50e305fdfaf5c 1666 main/binary-amd64/Packages
  004b8ab23959562d5455c1ccf1b4490fb3e78f9a65e0f2a4f8204e972efaf15c 772 main/binary-amd64/Packages.gz
  fcde6dc7aac4a7063a7a65ba74174188e0691e4c1aad727477bda47c4fbde70d 187 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJVKm1RAAoJECIr25oFSEnGuRQH/idEpM3XnfytmG1mX/Qo8EE7
+c4rtm1uG5Bkp4VoHbCpipaM3eHs7/yQiAl3QnVBQXldmd7e9W9qgotfhgofSF8Bq
+u1mDi79JJ++zuwvIuJLFMIzgKLVB4IBq3/y+u+tIIGqiraskIcxRO96wwmb83bPB
+2Frgz0nqAOI+cgwM1V45j6qPCbqrqDQe8EFaNSlevvt7KHbIDKLzwB52E5DeQusv
+dYXZrs/dE4e5PMs5zo1OfB//FH9ZkT9L4xxtMnMeVv3TZvhKTCCbpDfuHdiR3wnO
+4yhrdXhrG9Pjjt3B0pUG4XVmLdcHJLd55H8NKqu5RXCr1llGJz1FEckGTZRS/pA=
+=9Zdz
+-----END PGP SIGNATURE-----
