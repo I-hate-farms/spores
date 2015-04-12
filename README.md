@@ -16,6 +16,6 @@ sudo apt-get update
 sudo apt-get install elementary-tweaks
 ```
 
-## [Contributing](CONTRIBUTING.md]
+## [Contributing](CONTRIBUTING.md)
 
-## [Changelog](CHANGELOG.md]
+## [Changelog](CHANGELOG.md)
