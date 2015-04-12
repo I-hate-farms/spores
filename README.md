@@ -4,10 +4,9 @@
 ## How to install the ppa...
 ... and get all the nice applications! 
 ```
-wget -O - http://i-hate-farms.github.io/spores/key/deb.gpg.key | sudo apt-key add - 
-sudo add-apt-repository "deb http://i-hate-farms.github.io/spores trusty main"
-sudo apt-get update
+wget -O - http://i-hate-farms.github.io/spores/install | sudo sh - 
 ```
+View the [install script](http://i-hate-farms.github.io/spores/install)
 
 ## Install software 
 
