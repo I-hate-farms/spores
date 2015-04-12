@@ -1,5 +1,5 @@
 # Spores
-Spores is the ppa for all our applications and libraries
+[Spores](http://i-hate-farms.github.io/spores) is the ppa for all our applications and libraries
 
 ## How to install
 ```
