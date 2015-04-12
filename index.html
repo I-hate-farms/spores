@@ -9,7 +9,11 @@
 
 	    To install this debian repository, type in a terminal: <br><br>
 	    <code>
-	        sudo add-apt-repository "sudo add-apt-repository "deb http://i-hate-farms.github.io/spores trusty main" <br>
+	    
+	        gpg --export --armor 222BDB9A054849C6 | sudo apt-key add - 
+	        <br>
+	        sudo add-apt-repository "sudo add-apt-repository "deb http://i-hate-farms.github.io/spores/key/deb.gpg.key trusty main"
+	        <br>
 	        sudo apt-get update
 	    </code>
 
