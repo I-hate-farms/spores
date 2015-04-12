@@ -10,7 +10,7 @@ View the [install script](install)
 
 ## Install software 
 
-### elementary-tweaks 
+### [elementary-tweaks](https://github.com/I-hate-farms/elementary-tweaks) 
 ```
 sudo apt-get install elementary-tweaks
 ```
