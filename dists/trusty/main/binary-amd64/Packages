@@ -2,7 +2,7 @@ Package: elementary-tweaks
 Version: 0.3
 Architecture: amd64
 Maintainer: Michael P. Starkweather <mpstark@gmail.com>
-Installed-Size: 1213
+Installed-Size: 1217
 Pre-Depends: dpkg (>= 1.15.6)
 Depends: gala, plank, slingshot-launcher, dconf-gsettings-backend | gsettings-backend, gconf-service, libc6 (>= 2.7), libgconf-2-4 (>= 2.31.1), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.35.9), libgranite2 (>= 0.2.0), libgtk-3-0 (>= 3.11.5), libswitchboard-2.0-0 (>= 2.0~bzr468)
 Enhances: switchboard
@@ -10,10 +10,10 @@ Homepage: https://launchpad.net/elementarytweak
 Priority: optional
 Section: x11
 Filename: pool/main/e/elementary-tweaks/elementary-tweaks_0.3_amd64.deb
-Size: 117998
-SHA256: a705fa2f4ecce0dd2c0efa4707793165624665107f0f0f8b445648fce7a5fae1
-SHA1: 173b01c0d0f96b716fd7a6cf2102ad97ed1bd88b
-MD5sum: 16326633682cbf229004666bbfbf12cf
+Size: 118880
+SHA256: 7d6d1adeaff62e11c8620af686dedfec8f38a9cc0781cdcb97cbb13000831584
+SHA1: e9c8a1c9925c5db3109d12882f3bf0b07db6856b
+MD5sum: 4c2b52ba6342896bd82871b6d18553bd
 Description: Change hidden desktop settings
  Switchboard plug for controlling hidden options.
 
@@ -22,7 +22,7 @@ Source: elementary-tweaks
 Version: 0.3
 Architecture: amd64
 Maintainer: Michael P. Starkweather <mpstark@gmail.com>
-Installed-Size: 579
+Installed-Size: 586
 Pre-Depends: dpkg (>= 1.15.6)
 Depends: elementary-tweak (= 0.3)
 Enhances: elementary-tweak
@@ -30,10 +30,10 @@ Homepage: https://launchpad.net/elementarytweak
 Priority: extra
 Section: debug
 Filename: pool/main/e/elementary-tweaks/elementary-tweaks-dbg_0.3_amd64.deb
-Size: 448004
-SHA256: 815bc4bc4da7efd77c7264a5a98f09111e10e7cac0caf247380748f687c1d27e
-SHA1: 7325cad304faaf6c043543d596612056563835bc
-MD5sum: 869f494438512033e8a110f70905e1a7
+Size: 454984
+SHA256: 4c7fdec1fa34fbcd9967041fdb493ae5346163d67ddc0344705119551793101d
+SHA1: 7f2321309dde85e2baf14d015b93220a708f5365
+MD5sum: 2923d8dd5718f1a650e185db60ce7fbd
 Description: Change hidden desktop settings (debugging symbols)
  Switchboard plug for controlling hidden options.
  .
