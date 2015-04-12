@@ -1,9 +1,10 @@
 # Spores
 [Spores](http://i-hate-farms.github.io/spores) is the ppa for all our applications and libraries
 
-## How to install
+## How to install the ppa...
+... and get all the nice applications! 
 ```
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 222BDB9A054849C6
+wget -O -  http://i-hate-farms.github.io/spores/key/deb.gpg.key | sudo apt-key add - 
 sudo add-apt-repository "deb http://i-hate-farms.github.io/spores trusty main"
 sudo apt-get update
 ```
