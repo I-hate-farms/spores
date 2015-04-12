@@ -3,6 +3,7 @@
 
 ## How to install
 ```
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 222BDB9A054849C6
 sudo add-apt-repository "deb http://i-hate-farms.github.io/spores trusty main"
 sudo apt-get update
 ```
