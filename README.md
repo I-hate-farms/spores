@@ -6,7 +6,7 @@
 ```
 wget -O - http://i-hate-farms.github.io/spores/install | sudo sh - 
 ```
-View the [install script](http://i-hate-farms.github.io/spores/install)
+View the [install script](install)
 
 ## Install software 
 
