@@ -1,0 +1,7 @@
+Archive: stable
+Version: 14.04
+Component: main
+Origin: i-hate-farms
+Label: i-hate-farms repository
+Architecture: amd64
+Description: i-hate-farms repository for applications and libraries

@@ -1,0 +1,30 @@
+Origin: i-hate-farms
+Label: i-hate-farms repository
+Suite: stable
+Codename: trusty
+Version: 14.04
+Date: Sun, 12 Apr 2015 12:24:56 UTC
+Architectures: i386 amd64
+Components: main
+Description: i-hate-farms repository for applications and libraries
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 5cb16cfc9c420f9ef0feb4f6902472ec 186 main/binary-i386/Release
+ 45449d63febd46dfbb4988808ed33e0f 1666 main/binary-amd64/Packages
+ ff52faad2527d34cd5486de1f0d8fabf 772 main/binary-amd64/Packages.gz
+ a8a06d49acc8a3f5eed339899a67ce70 187 main/binary-amd64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ fb007ae28c41166e85d00f0e24caafa28fd028cf 186 main/binary-i386/Release
+ d9df53ddadcd5ac5ea2f3a0bf6a3462f4c886d29 1666 main/binary-amd64/Packages
+ cf8fce216938dd1e35cfcd3b86348bcef95638e9 772 main/binary-amd64/Packages.gz
+ 5dbc527a358eaa8ed3f7eb86e5e2ad68e0a5881d 187 main/binary-amd64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ ab078555642320b110b8ed69822ff3c95a3ec08dfe81d697a4edc78bf28b0a6f 186 main/binary-i386/Release
+ 020d79241068d8a41b1074d71cf8cdf79a86f4b6152d1ae603f50e305fdfaf5c 1666 main/binary-amd64/Packages
+ 004b8ab23959562d5455c1ccf1b4490fb3e78f9a65e0f2a4f8204e972efaf15c 772 main/binary-amd64/Packages.gz
+ fcde6dc7aac4a7063a7a65ba74174188e0691e4c1aad727477bda47c4fbde70d 187 main/binary-amd64/Release
