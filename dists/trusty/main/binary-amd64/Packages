@@ -39,3 +39,20 @@ Description: Change hidden desktop settings (debugging symbols)
  .
  This package contains debugging symbols for switchboard-plug-template.
 
+Package: vala-stacktrace
+Version: 0.9.4
+Architecture: amd64
+Maintainer: Carl P. <name.is.carl@gmail.com>
+Installed-Size: 143
+Pre-Depends: dpkg (>= 1.15.6)
+Homepage: https://github.com/I-hate-farms/stacktrace
+Priority: optional
+Section: x11
+Filename: pool/main/v/vala-stacktrace/vala-stacktrace_0.9.4_amd64.deb
+Size: 24462
+SHA256: b90fffe8d4c09e818c5f804e7bf57333b370f904311a31817c93ee79e48134cc
+SHA1: 922200f0baa941368cada5bf748ef9afbfb1cbf9
+MD5sum: b9252d6a4bef1f612910058df917777d
+Description: This library displays neat vala stacktraces
+  vala-stacktrace: This library displays neat vala stacktraces
+
