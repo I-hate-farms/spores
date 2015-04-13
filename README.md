@@ -4,7 +4,7 @@
 ## How to install the ppa...
 ... and get all the nice applications! 
 ```
-wget -O - http://i-hate-farms.github.io/spores/install | sudo sh - 
+curl -sL  http://i-hate-farms.github.io/spores/install | sudo bash -  
 ```
 View the [install script](install)
 
