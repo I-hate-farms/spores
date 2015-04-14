@@ -27,6 +27,7 @@ sudo apt-get install gnupg
 mkdir -p ./key
 gpg --gen-key
 reprepro --ask-passphrase -Vb . export
+
 ```
 
 ## How to publish new deb package
