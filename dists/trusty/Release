@@ -3,7 +3,7 @@ Label: i-hate-farms repository
 Suite: stable
 Codename: trusty
 Version: 14.04
-Date: Sat, 18 Apr 2015 18:44:30 UTC
+Date: Sat, 18 Apr 2015 18:55:02 UTC
 Architectures: i386 amd64
 Components: main
 Description: i-hate-farms repository for applications and libraries
