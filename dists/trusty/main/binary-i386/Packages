@@ -30,10 +30,10 @@ Homepage: https://launchpad.net/elementarytweak
 Priority: extra
 Section: debug
 Filename: pool/main/e/elementary-tweaks/elementary-tweaks-dbg_1.0_i386.deb
-Size: 433746
-SHA256: 6332691064e9580f837778bfcb591799668bd5327f7004fdf5bbd37e8dd25821
-SHA1: 0d66a41533fe197d7f8f49ed988c051e7a608314
-MD5sum: d72f62ebfaf81d18a997aeeef05336d7
+Size: 433762
+SHA256: 245511440068e712a24e7428b7c2d5810ddeb8c088ca9b9dbff85d8fb15048bd
+SHA1: bdd74c2abc0eeec5f376c550df8bfbc768e763b2
+MD5sum: 849547f79eb4c4dca2717b2f960f0fa9
 Description: Change hidden desktop settings (debugging symbols)
  Switchboard plug for controlling hidden options.
  .
