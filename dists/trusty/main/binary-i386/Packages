@@ -4,16 +4,16 @@ Architecture: i386
 Maintainer: Michael P. Starkweather <mpstark@gmail.com>
 Installed-Size: 1234
 Pre-Depends: dpkg (>= 1.15.6)
-Depends: gala, plank, slingshot-launcher, dconf-gsettings-backend | gsettings-backend, gconf-service, libc6 (>= 2.7), libgconf-2-4 (>= 2.31.1), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.35.9), libgranite2 (>= 0.2.0), libgtk-3-0 (>= 3.11.5), libswitchboard-2.0-0 (>= 2.0~bzr468)
+Depends: gala, plank, slingshot-launcher, dconf-gsettings-backend | gsettings-backend, gconf-service, libc6 (>= 2.7), libgconf-2-4 (>= 2.31.1), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.35.9), libgranite2 (>= 0.2.0), libgtk-3-0 (>= 3.11.5), libpolkit-gobject-1-0 (>= 0.99), libswitchboard-2.0-0 (>= 2.0~bzr468)
 Enhances: switchboard
 Homepage: https://launchpad.net/elementarytweak
 Priority: optional
 Section: x11
 Filename: pool/main/e/elementary-tweaks/elementary-tweaks_1.0_i386.deb
-Size: 123668
-SHA256: b29cfebd4511990df0911416e6517e78421e8d9e2393cf52383ca8f775e520fc
-SHA1: fba8c2b572b0855d224c0a11d5a2d883fbec7725
-MD5sum: ef419831941c71d91c53867021d6f186
+Size: 123730
+SHA256: c57c26904d16998027769ffd449111e182eb83a11990b885e982e811e9899801
+SHA1: 0a51de7a3b24d6ae9ec204a07d2cfff446ea3772
+MD5sum: ab7aacb0d390bbec2469195fc0293dd0
 Description: Change hidden desktop settings
  Switchboard plug for controlling hidden options.
 
