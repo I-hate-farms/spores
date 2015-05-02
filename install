@@ -1,3 +1,9 @@
-curl -sL http://i-hate-farms.github.io/spores/key/deb.gpg.key | sudo apt-key add - 
+white='\033[1;37m'
+NC='\033[0m'
+
+echo -e "${white}Installing the repository...${NC}"
+curl -sL http://i-hate-farms.github.io/spores/key/deb.gpg.key | sudo apt-key add -
 sudo add-apt-repository "deb http://i-hate-farms.github.io/spores trusty main"
+
+echo -e "${white}Updating your package list...${NC}"
 sudo apt-get update
