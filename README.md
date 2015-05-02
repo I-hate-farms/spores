@@ -6,7 +6,7 @@
 ```
 curl -sL  http://i-hate-farms.github.io/spores/install | sudo bash -  
 ```
-View the [install script](install)
+View the [install script](http://i-hate-farms.github.io/spores/install)
 
 ## Install software 
 
