@@ -40,19 +40,20 @@ Description: Change hidden desktop settings (debugging symbols)
  This package contains debugging symbols for switchboard-plug-template.
 
 Package: libivy-dev
-Version: 0.9.4
+Version: 0.9.5
 Architecture: amd64
 Maintainer: Carl P. <name.is.carl@gmail.com>
-Installed-Size: 25
+Installed-Size: 138
 Pre-Depends: dpkg (>= 1.15.6)
+Depends: libc6 (>= 2.7), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.31.8)
 Homepage: https://github.com/I-hate-farms/ivy
 Priority: optional
 Section: x11
-Filename: pool/main/libi/libivy-dev/libivy-dev_0.9.4_amd64.deb
-Size: 1418
-SHA256: 1c2d79fd79c8b599b8c168b55ff0f9c84858e0a73f7111cdc6acd3a74aec5aa2
-SHA1: 27bc06d05e6f1f22542cbe320f25a3c516289c90
-MD5sum: 8d2e09ff11fe9511a0f03800fcf4c8b5
+Filename: pool/main/libi/libivy-dev/libivy-dev_0.9.5_amd64.deb
+Size: 23896
+SHA256: 6cdfee552f66ee8e2417493d44cc923c251e8ea0dbd1049727ebda8f94b9cae8
+SHA1: 9a5dd3d12652cd149e1e4014216ce847df2af217
+MD5sum: 487ad230fcbe1b2a19c9b75babcb51fc
 Description: This library displays neat vala stacktraces
   ivy: This library displays neat vala stacktraces
 
