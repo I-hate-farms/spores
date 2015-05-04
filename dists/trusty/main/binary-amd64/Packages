@@ -59,21 +59,21 @@ Description: This library displays neat vala stacktraces
 
 Package: libivy-dev-dbg
 Source: libivy-dev
-Version: 0.9.5
+Version: 0.9.6
 Architecture: amd64
 Maintainer: Carl P. <name.is.carl@gmail.com>
 Installed-Size: 59
 Pre-Depends: dpkg (>= 1.15.6)
-Depends: libivy-dev (= 0.9.5)
+Depends: libivy-dev (= 0.9.6)
 Enhances: libivy-dev
 Homepage: https://github.com/I-hate-farms/ivy
 Priority: extra
 Section: debug
-Filename: pool/main/libi/libivy-dev/libivy-dev-dbg_0.9.5_amd64.deb
-Size: 5522
-SHA256: fce694417b58d86b09e8736cbdeecc6387a0a5124b2550329583168ad496d438
-SHA1: c7d55007f69b0f701ce1bc38fab46338521cad61
-MD5sum: 4c1c4d7cabca3f828b4abe85a447419f
+Filename: pool/main/libi/libivy-dev/libivy-dev-dbg_0.9.6_amd64.deb
+Size: 5566
+SHA256: 1590bf819cbe6ee73f778ad2c830c268095c53b1230484e4dc867e2e3bc38853
+SHA1: a2737592f9cc9cd8e18d70f63b633adeac6e981e
+MD5sum: 68c5d3421d1aedc59153f3da9872cb71
 Description: This library displays neat vala stacktraces (debugging symbols)
    ivy-dbg: this package contains debugging symbols for ivy.
 
