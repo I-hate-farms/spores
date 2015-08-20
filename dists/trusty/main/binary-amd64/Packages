@@ -19,21 +19,21 @@ Description: Change hidden desktop settings
 
 Package: elementary-tweaks-dbg
 Source: elementary-tweaks
-Version: 1.0
+Version: 1.0.1
 Architecture: amd64
 Maintainer: Carl P. <name.is.carl@gmail.com>
 Installed-Size: 608
 Pre-Depends: dpkg (>= 1.15.6)
-Depends: elementary-tweaks (= 1.0)
+Depends: elementary-tweaks (= 1.0.1)
 Enhances: elementary-tweaks
 Homepage: https://github.com/I-hate-farms/elementary-tweaks
 Priority: extra
 Section: debug
-Filename: pool/main/e/elementary-tweaks/elementary-tweaks-dbg_1.0_amd64.deb
-Size: 473074
-SHA256: b37f92017b50995601262a25e5d4fdfe9f7daa43d9c8b5fe641f04770b6c580f
-SHA1: afb3a2d6d8ba16ccdd6e0838d55d1e1f3f27cd1b
-MD5sum: 99e01e5ac4590b1dae5f943b068a7d3b
+Filename: pool/main/e/elementary-tweaks/elementary-tweaks-dbg_1.0.1_amd64.deb
+Size: 473070
+SHA256: 1699962cc6792a32cab6c1e1848a6ff2d660ae00fc974c8b48f994fc87c88362
+SHA1: cf79c2d57d54da03121dbc31ceb05d687ea2168b
+MD5sum: f89afdb72a1f03122c6fe818c2186665
 Description: Change hidden desktop settings (debugging symbols)
  Switchboard plug for controlling hidden options.
  .
