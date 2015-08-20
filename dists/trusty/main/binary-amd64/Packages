@@ -1,19 +1,19 @@
 Package: elementary-tweaks
-Version: 1.0
+Version: 1.0.1
 Architecture: amd64
-Maintainer: Michael P. Starkweather <mpstark@gmail.com>
-Installed-Size: 1229
+Maintainer: Carl P. <name.is.carl@gmail.com>
+Installed-Size: 1233
 Pre-Depends: dpkg (>= 1.15.6)
-Depends: gala, plank, slingshot-launcher, dconf-gsettings-backend | gsettings-backend, gconf-service, libc6 (>= 2.7), libgconf-2-4 (>= 2.31.1), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.35.9), libgranite2 (>= 0.2.0), libgtk-3-0 (>= 3.11.5), libswitchboard-2.0-0 (>= 2.0~bzr468)
+Depends: gala, plank, slingshot-launcher, dconf-gsettings-backend | gsettings-backend, gconf-service, libc6 (>= 2.7), libgconf-2-4 (>= 2.31.1), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.35.9), libgranite2 (>= 0.2.0), libgtk-3-0 (>= 3.11.5), libpolkit-gobject-1-0 (>= 0.99), libswitchboard-2.0-0 (>= 2.0~bzr468)
 Enhances: switchboard
-Homepage: https://launchpad.net/elementarytweak
+Homepage: https://github.com/I-hate-farms/elementary-tweaks
 Priority: optional
 Section: x11
-Filename: pool/main/e/elementary-tweaks/elementary-tweaks_1.0_amd64.deb
-Size: 123190
-SHA256: a7b97ac7d610084d04b59bdaf10307c27aa7733f619c17f12bfb837814bfaa5d
-SHA1: ac8b2ebc4226557105fb6b0f64e3e62dcfd6855c
-MD5sum: 8bedda63030bd009c8e88aea8b9ba8e2
+Filename: pool/main/e/elementary-tweaks/elementary-tweaks_1.0.1_amd64.deb
+Size: 123620
+SHA256: f6b1012df53d8302a6af03f6475f3d5910f47a24577e2a55ee90692fb8c0e6d0
+SHA1: 47f777ece90f15fd8fdf2522faccda909370a643
+MD5sum: 27d577464e62b772c7aec1e5eebb0fea
 Description: Change hidden desktop settings
  Switchboard plug for controlling hidden options.
 
